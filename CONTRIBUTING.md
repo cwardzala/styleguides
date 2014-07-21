@@ -9,7 +9,7 @@ If you want to contribute please follow this instruction.
 
 ## Sites
 
-1. Create new `addition` or `new-site` branch
+1. Create new `new-site` branch
 2. Add your site[1] to the bottom of `styleguides.txt`
 3. Pull to github and send Pull Request.
 
