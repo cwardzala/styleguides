@@ -3,4 +3,3 @@
 - http://www.yelp.com/styleguide
 - http://style.codeforamerica.org/
 - https://github.com/mobify/mobify-code-style
-- https://github.com/mobify/handbooks/blob/master/photoshop-handbook/Readme.md
