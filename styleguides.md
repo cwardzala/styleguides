@@ -2,3 +2,4 @@
 - http://alistapart.com/about/style-guide
 - http://www.yelp.com/styleguide
 - http://style.codeforamerica.org/
+- https://github.com/mobify/mobify-code-style
