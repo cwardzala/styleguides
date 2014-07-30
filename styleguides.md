@@ -8,3 +8,4 @@
 - http://www.google.com/design/spec/material-design/introduction.html
 - https://github.com/styleguide/css
 - https://ux.mailchimp.com/patterns/
+- http://rizzo.lonelyplanet.com/styleguide/design-elements/colours
