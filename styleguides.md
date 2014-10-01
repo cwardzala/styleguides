@@ -1,5 +1,5 @@
 - http://www.starbucks.com/static/reference/styleguide/
-- http://alistapart.com/about/style-guide
+- http://patterns.alistapart.com/
 - http://www.yelp.com/styleguide
 - http://style.codeforamerica.org/
 - http://govuk-elements.herokuapp.com/
